@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-linear-search/02-linear-search.iml" filepath="$PROJECT_DIR$/02-linear-search/02-linear-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Binary-search/03-Binary-search.iml" filepath="$PROJECT_DIR$/03-Binary-search/03-Binary-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java+DSA.iml" filepath="$PROJECT_DIR$/Java+DSA.iml" />
+    </modules>
+  </component>
+</project>
